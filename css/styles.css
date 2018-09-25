@@ -1,0 +1,43 @@
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+body{
+  border: 1px solid black;
+  outline-style: outset;
+  color:blue;
+ /* background-color:pink; */
+ /* text-align:center; */
+ justify-content:center;
+ margin-left:20px;
+ margin-top:20px;
+ padding:30px;
+ text-decoration:none;
+}
+h1{
+  font-size:30px;
+  font-family:comic sans;
+  color:green;
+  /* text-align:center; */
+  margin-top:5%;
+  border:2px
+  /* float:left; */
+}
