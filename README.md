@@ -1,6 +1,5 @@
-QUIZ-BOARD
-
-Description
+#QUIZ-BOARD
+##Description
 This is a questionnaire that contains question and multiple choice for the
 interviewer who is going to answer the questions
 
@@ -10,7 +9,6 @@ Stephen Otieno
 Setup Requirement
  Clone Repository from GitHub.
  Open the triangle_tracker.html file in your web browser
- 
 Technology Used
 Language used:- HTML, CSS/STYLES.CSS,  JAVASCRIPT,
 
