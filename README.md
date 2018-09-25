@@ -1,5 +1,6 @@
-#QUIZ-BOARD
-##Description
+QUIZ-BOARD
+
+Description
 This is a questionnaire that contains question and multiple choice for the
 interviewer who is going to answer the questions
 
