@@ -19,7 +19,7 @@ $(document).ready(function(){
       $("#form").hide();
       display.innerHTML=("Pass, Your score is: "+ tally);
     }
-    else if(tally<40&&tally>0){
+    else if(tally<40&&tally>=0){
       $("#form").hide();
       display.innerHTML=("Poor, Your score is "+ tally);
     }
